@@ -102,7 +102,7 @@ class UserSeeder extends Seeder
                 'direccion' => '',
                 'ci' => '',
                 'estado' => 1,
-                'password' => Hash::make('123123'),
+                'password' => Hash::make('123456789shara'),
             ]);
         }
     }
